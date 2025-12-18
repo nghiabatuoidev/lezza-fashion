@@ -1,6 +1,6 @@
 {
   "header": {
-    "logo": "LEZZA",
+    "logo": "LEEZA",
     "mainNav": [
       { "label": "Về Chúng Tôi", "href": "#ve-chung-toi" },
       { "label": "Sứ mệnh", "href": "#su-menh" },
@@ -45,10 +45,10 @@
         ]
       }
     ],
-    "logo": "Lezza",
+    "logo": "LEEZA",
     "description": "Thời trang Everlane: Tinh tế từ sợi vải tự nhiên. Bền vững cho tương lai. Đẳng cấp cho hôm nay.",
     "emailPlaceholder": "Địa chỉ Email",
     "bottomLinks": ["Chính Sách Bảo Mật", "Điều Khoản Dịch Vụ"],
-    "copyright": "© 2025 Lezza. Đã đăng ký bản quyền."
+    "copyright": "© 2025 LeeZa. Đã đăng ký bản quyền."
   }
 }

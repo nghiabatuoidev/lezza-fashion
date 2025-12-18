@@ -10,7 +10,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import { Package, Leaf, MapPin, Star } from "lucide-react";
-import data from "@/app/data/home.json";
+import data from "@/data/home.json";
 import { BlurFade } from "@/components/ui/blur-fade";
 
 const ICON_MAP: any = {

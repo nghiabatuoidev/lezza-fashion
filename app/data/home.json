@@ -10,28 +10,29 @@
     "label": "Khám phá",
     "items": [
       {
-        "name": "ÁO SƠ MI",
-        "image": "https://yame.vn/cdn/shop/files/ao-s-mi-seventy-seven-22-be-1174882837.jpg?v=1760786722"
-      },
-      {
-        "name": "ÁO Hoodie",
-        "image": "https://yame.vn/cdn/shop/files/ao-khoac-seventy-seven-39-den-1174884560.jpg?v=1760780440"
-      },
-      {
         "name": "ÁO THUN",
-        "image": "https://yame.vn/cdn/shop/files/ao-thun-non-branded-01-den-1174882387.jpg?v=1760778128"
+        "image": "/images/danh-muc-1.jpg"
       },
       {
-        "name": "ÁO KHOÁC",
-        "image": "https://yame.vn/cdn/shop/files/ao-khoac-no-style-m45-den-1174885182.jpg?v=1760779031"
+        "name": "ÁO HOODIE",
+       "image": "/images/danh-muc-6.jpg"
       },
       {
-        "name": "ĐỒ JEANS",
-        "image": "https://yame.vn/cdn/shop/files/0024722Thumb1.jpg?v=1760794163"
+        "name": "CHÂN VÁY",
+        "image": "/images/danh-muc-5.jpg"
+      },
+
+      {
+        "name": "BLACK SET",
+        "image": "/images/danh-muc-2.jpg"
       },
       {
-        "name": "QUẦN DÀI",
-        "image": "https://yame.vn/cdn/shop/files/qu-n-dai-non-branded-32-den-1174882743.jpg?v=1760782162"
+        "name": "WHITE SET",
+        "image": "/images/danh-muc-3.jpg"
+      },
+      {
+        "name": "VÁY TĂM SET",
+        "image": "/images/danh-muc-4.jpg"
       }
     ]
   },
@@ -41,17 +42,17 @@
       {
         "name": "Hàng Mới Về",
         "subtitle": "MUA HÀNG MỚI NHẤT",
-        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_Weekend_004_-_The_No_Style_227.jpg?v=1765176418"
+        "image": "/images/bosuutap-1.jpg"
       },
       {
         "name": "Bán Chạy Nhất",
         "subtitle": "MUA MÓN BẠN THÍCH",
-        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_No_Style_183_-_The_No_Style_105_-_The_No_Style_224.jpg?v=1765176418"
+      "image": "/images/bosuutap-2.jpg"
       },
       {
         "name": "Trang Phục Lễ Hội",
         "subtitle": "MUA THEO DỊP",
-        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_No_Style_053_-_The_No_Style_022_-_The_No_Style_224.jpg?v=1765176418"
+         "image": "/images/bosuutap-3.jpg"
       }
     ]
   },
@@ -60,24 +61,24 @@
     "subtitle": "Công Năng Tuyệt Vời. Thiết Kế Có Mục Đích. Chế Tác Có Tâm.",
     "items": [
       {
-        "name": "ÁO SƠ MI KHOÁC",
-        "image": "https://yame.vn/cdn/shop/files/ao-s-mi-no-style-m62-xanh-den-1174884360.jpg?v=1760774852"
+        "name": "hoodie nỉ bông",
+        "image": "/images/yeu-thich-1.jpg"
       },
       {
-        "name": "ÁO KHOÁC BOMBER",
-        "image": "https://yame.vn/cdn/shop/files/ao-khoac-no-style-m45-xam-ghi-1174885194.jpg?v=1760778979"
+        "name": "POLO SWEATER LEEZA",
+        "image": "/images/yeu-thich-2.jpg"
       },
       {
-        "name": "QUẦN TÂY",
-        "image": "https://yame.vn/cdn/shop/files/qu-n-tay-non-iron-19-den-1174881694.jpg?v=1760782536"
+        "name": "Áo Phông UnisexÁo Khoác Nỉ Cao Cổ LEEZA",
+        "image": "/images/yeu-thich-3.jpg"
       },
       {
-        "name": "ÁO KHOÁC KAKI",
-        "image": "https://yame.vn/cdn/shop/files/ao-khoac-seventy-seven-08-den-1174885103.jpg?v=1760779517"
+        "name": "Áo Phông Unisex",
+        "image": "/images/yeu-thich-4.jpg"
       },
       {
-        "name": "ÁO THUN CỔ TRÒN",
-        "image": "https://yame.vn/cdn/shop/files/ao-thun-seventy-seven-44-xanh-den-1174883419.jpg?v=1760777740"
+        "name": "ÁO SWEATER VỊT COOL",
+        "image": "/images/yeu-thich-5.jpg"
       }
     ]
   },
@@ -86,7 +87,7 @@
     "label": "Trải nghiệm của chúng tôi",
     "subtitle": "Đọc về tiến độ của chúng tôi trong Báo Cáo Tác Động mới nhất.",
     "buttonText": "Tìm Hiểu Thêm",
-    "image": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg"
+    "image": "/images/sumenh.jpg"
   },
   "reviews": {
     "title": "Trải Nghiệm Từ Khách Hàng",
@@ -94,23 +95,23 @@
       {
         "title": "Mọi Người Đang Nói Gì",
         "quote": "Yêu chiếc áo này! Vừa vặn hoàn hảo và vải dày dặn nhưng không bị cứng.",
-        "author": "Jonathan F",
-        "productLink": "Áo Khoác Sơ Mi Dày Dặn",
-        "image": "https://cevoidcontent.com/images/jSou0UlFhXiwlfOrI3xBh/original.jpeg?class=1080"
+        "author": "Kim Ngọc",
+        "productLink": "Áo Khoác LeeZa Nỉ Bông Thêu Logo",
+        "image": "/images/review-1.jpg"
       },
       {
         "title": "Khách Hàng Yêu Thích",
         "quote": "Chất lượng tuyệt vời, giao hàng siêu nhanh! Sẽ mua tiếp.",
         "author": "Lan Nguyễn",
         "productLink": "Áo Thun Cao Cấp",
-        "image": "https://buggy.yodycdn.com/images/product/9b6e7da410aadb040d1c76e3c6c29466.webp"
+        "image": "/images/review-2.jpg"
       },
       {
         "title": "Review 5 Sao",
         "quote": "Thiết kế đẹp, mặc rất thoải mái. Highly recommend!",
-        "author": "Minh Trần",
-        "productLink": "Quần Jeans Slim Fit",
-        "image": "https://cdn.hstatic.net/products/1000360022/untitled_session0324_1_dbd4b7ec26f8418c96e9af6a8f1fd21d_1024x1024.jpg"
+        "author": "Hồng Ngọc",
+        "productLink": "Áo polo cổ kéo",
+        "image": "/images/review-3.jpg"
       }
     ]
   },

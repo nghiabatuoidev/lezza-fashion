@@ -1,0 +1,54 @@
+{
+  "header": {
+    "logo": "LEZZA",
+    "mainNav": [
+      { "label": "Về Chúng Tôi", "href": "#ve-chung-toi" },
+      { "label": "Sứ mệnh", "href": "#su-menh" },
+      { "label": "Cam kết", "href": "#cam-ket" },
+      { "label": "Blog", "href": "#blog" }
+    ],
+    "subNav": [
+      { "label": "Trang chủ", "href": "#trang-chu" },
+      { "label": "Danh mục", "href": "#danh-muc" },
+      { "label": "Bộ sưu tập", "href": "#bo-suu-tap" },
+      { "label": "Nổi bật", "href": "#noi-bat" },
+      { "label": "Trải nghiệm", "href": "#trai-nghiem" }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Khám Phá",
+        "links": [
+          { "label": "Về Chúng Tôi", "href": "#ve-chung-toi" },
+          { "label": "Sứ mệnh", "href": "#su-menh" },
+          { "label": "Cam kết", "href": "#cam-ket" },
+          { "label": "Danh mục", "href": "#danh-muc" },
+          { "label": "Bộ Sưu Tập", "href": "#bo-suu-tap" },
+          { "label": "Blog", "href": "#blog" }
+        ]
+      },
+      {
+        "title": "Hỗ Trợ",
+        "links": [
+          { "label": "Trung Tâm Trợ Giúp", "href": "#" },
+          { "label": "Chính Sách Đổi Trả", "href": "#" },
+          { "label": "Thông Tin Vận Chuyển", "href": "#" },
+          { "label": "Hướng dẫn mua hàng", "href": "#" }
+        ]
+      },
+      {
+        "title": "Kết Nối",
+        "links": [
+          { "label": "Facebook", "href": "https://www.facebook.com/LeeZa.vn" },
+          { "label": "Tiktok", "href": "https://www.tiktok.com/@leeza_vn" }
+        ]
+      }
+    ],
+    "logo": "Lezza",
+    "description": "Thời trang Everlane: Tinh tế từ sợi vải tự nhiên. Bền vững cho tương lai. Đẳng cấp cho hôm nay.",
+    "emailPlaceholder": "Địa chỉ Email",
+    "bottomLinks": ["Chính Sách Bảo Mật", "Điều Khoản Dịch Vụ"],
+    "copyright": "© 2025 Lezza. Đã đăng ký bản quyền."
+  }
+}

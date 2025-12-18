@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Quicksand } from "next/font/google";
 import "./globals.css";
+import Header from "@/components/user/header";
+import Footer from "@/components/user/footer";
+import dataLayout from "@/app/data/layout.json"; // Import file JSON
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const quicksand = Quicksand({
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"], // Thêm các trọng lượng bạn muốn sử dụng
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -23,11 +22,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+    <html lang="vi">
+      <head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+      </head>
+      <body className={`${quicksand.className} antialiased`}>
+        <Header data={dataLayout.header} />
         {children}
+        <Footer data={dataLayout.footer} />
       </body>
     </html>
   );

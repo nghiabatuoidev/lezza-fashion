@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "title": "Kỷ Nguyên Ấm Áp Của Bạn",
+    "description": "Đạt đỉnh cao phong cách thoải mái với những món đồ thiết yếu cho mùa đông mới.",
+    "buttonText": "Khám Phá Ngay",
+    "image": "/images/hero-1.jpeg"
+  },
+  "categories": {
+    "title": "Danh Mục",
+    "label": "Khám phá",
+    "items": [
+      {
+        "name": "ÁO SƠ MI",
+        "image": "https://yame.vn/cdn/shop/files/ao-s-mi-seventy-seven-22-be-1174882837.jpg?v=1760786722"
+      },
+      {
+        "name": "ÁO Hoodie",
+        "image": "https://yame.vn/cdn/shop/files/ao-khoac-seventy-seven-39-den-1174884560.jpg?v=1760780440"
+      },
+      {
+        "name": "ÁO THUN",
+        "image": "https://yame.vn/cdn/shop/files/ao-thun-non-branded-01-den-1174882387.jpg?v=1760778128"
+      },
+      {
+        "name": "ÁO KHOÁC",
+        "image": "https://yame.vn/cdn/shop/files/ao-khoac-no-style-m45-den-1174885182.jpg?v=1760779031"
+      },
+      {
+        "name": "ĐỒ JEANS",
+        "image": "https://yame.vn/cdn/shop/files/0024722Thumb1.jpg?v=1760794163"
+      },
+      {
+        "name": "QUẦN DÀI",
+        "image": "https://yame.vn/cdn/shop/files/qu-n-dai-non-branded-32-den-1174882743.jpg?v=1760782162"
+      }
+    ]
+  },
+  "featured": {
+    "title": "Bộ sưu tập",
+    "items": [
+      {
+        "name": "Hàng Mới Về",
+        "subtitle": "MUA HÀNG MỚI NHẤT",
+        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_Weekend_004_-_The_No_Style_227.jpg?v=1765176418"
+      },
+      {
+        "name": "Bán Chạy Nhất",
+        "subtitle": "MUA MÓN BẠN THÍCH",
+        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_No_Style_183_-_The_No_Style_105_-_The_No_Style_224.jpg?v=1765176418"
+      },
+      {
+        "name": "Trang Phục Lễ Hội",
+        "subtitle": "MUA THEO DỊP",
+        "image": "https://cdn.shopify.com/s/files/1/0932/5569/6681/files/The_No_Style_053_-_The_No_Style_022_-_The_No_Style_224.jpg?v=1765176418"
+      }
+    ]
+  },
+  "favorites": {
+    "title": "Được yêu thích",
+    "subtitle": "Công Năng Tuyệt Vời. Thiết Kế Có Mục Đích. Chế Tác Có Tâm.",
+    "items": [
+      {
+        "name": "ÁO SƠ MI KHOÁC",
+        "image": "https://yame.vn/cdn/shop/files/ao-s-mi-no-style-m62-xanh-den-1174884360.jpg?v=1760774852"
+      },
+      {
+        "name": "ÁO KHOÁC BOMBER",
+        "image": "https://yame.vn/cdn/shop/files/ao-khoac-no-style-m45-xam-ghi-1174885194.jpg?v=1760778979"
+      },
+      {
+        "name": "QUẦN TÂY",
+        "image": "https://yame.vn/cdn/shop/files/qu-n-tay-non-iron-19-den-1174881694.jpg?v=1760782536"
+      },
+      {
+        "name": "ÁO KHOÁC KAKI",
+        "image": "https://yame.vn/cdn/shop/files/ao-khoac-seventy-seven-08-den-1174885103.jpg?v=1760779517"
+      },
+      {
+        "name": "ÁO THUN CỔ TRÒN",
+        "image": "https://yame.vn/cdn/shop/files/ao-thun-seventy-seven-44-xanh-den-1174883419.jpg?v=1760777740"
+      }
+    ]
+  },
+  "mission": {
+    "title": "Sứ Mệnh Làm Sạch Ngành Thời Trang",
+    "label": "Trải nghiệm của chúng tôi",
+    "subtitle": "Đọc về tiến độ của chúng tôi trong Báo Cáo Tác Động mới nhất.",
+    "buttonText": "Tìm Hiểu Thêm",
+    "image": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg"
+  },
+  "reviews": {
+    "title": "Trải Nghiệm Từ Khách Hàng",
+    "items": [
+      {
+        "title": "Mọi Người Đang Nói Gì",
+        "quote": "Yêu chiếc áo này! Vừa vặn hoàn hảo và vải dày dặn nhưng không bị cứng.",
+        "author": "Jonathan F",
+        "productLink": "Áo Khoác Sơ Mi Dày Dặn",
+        "image": "https://cevoidcontent.com/images/jSou0UlFhXiwlfOrI3xBh/original.jpeg?class=1080"
+      },
+      {
+        "title": "Khách Hàng Yêu Thích",
+        "quote": "Chất lượng tuyệt vời, giao hàng siêu nhanh! Sẽ mua tiếp.",
+        "author": "Lan Nguyễn",
+        "productLink": "Áo Thun Cao Cấp",
+        "image": "https://buggy.yodycdn.com/images/product/9b6e7da410aadb040d1c76e3c6c29466.webp"
+      },
+      {
+        "title": "Review 5 Sao",
+        "quote": "Thiết kế đẹp, mặc rất thoải mái. Highly recommend!",
+        "author": "Minh Trần",
+        "productLink": "Quần Jeans Slim Fit",
+        "image": "https://cdn.hstatic.net/products/1000360022/untitled_session0324_1_dbd4b7ec26f8418c96e9af6a8f1fd21d_1024x1024.jpg"
+      }
+    ]
+  },
+  "promos": {
+    "title": "Blog & Tin tức",
+    "items": [
+      {
+        "title": "Gợi Ý Quà Tặng Lễ Hội",
+        "desc": "Những món quà tuyệt nhất cho mọi người trong danh sách của bạn.",
+        "btn": "Đọc Thêm",
+        "img": "/images/blog-1.jpg"
+      },
+      {
+        "title": "Thời Trang Sạch Hơn",
+        "desc": "Xem những nỗ lực bền vững đằng sau mỗi sản phẩm của chúng tôi.",
+        "btn": "Tìm Hiểu Thêm",
+        "img": "/images/blog-2.jpg"
+      }
+    ]
+  },
+  "valueProps": {
+    "title": "Cam kết của chúng tôi",
+    "items": [
+      {
+        "iconType": "package",
+        "title": "Miễn Phí Vận Chuyển",
+        "text": "Miễn phí vận chuyển cho đơn hàng trên $100."
+      },
+      {
+        "iconType": "leaf",
+        "title": "Chế Tác Có Tâm",
+        "text": "Được thiết kế vì bạn và vì hành tinh xanh."
+      },
+      {
+        "iconType": "mapPin",
+        "title": "Ghé Thăm Chúng Tôi",
+        "text": "Hệ thống cửa hàng trải dài trên toàn quốc."
+      }
+    ]
+  },
+  "about": {
+    "sectionTitle": "Về chúng tôi",
+    "title": "Lezza Cùng Bạn",
+    "story": "Lezza không chỉ là một thương hiệu thời trang, mà là hành trình tìm kiếm vẻ đẹp tối giản và bền vững. Chúng tôi tin rằng mỗi bộ trang phục bạn mặc là một tuyên ngôn về phong cách sống.",
+    "founderName": "Đội ngũ Lezza",
+    "images": [
+      "/images/doi-nhom.jpg",
+      "/images/doi-nhom-2.jpg",
+      "/images/doi-nhom-3.jpg",
+      "/images/doi-nhom-4.jpg",
+      "/images/doi-nhom-5.jpg",
+      "/images/doi-nhom-6.jpg",
+      "/images/doi-nhom-8.jpg",
+      "/images/doi-nhom-9.jpg",
+      "/images/doi-nhom-10.jpg",
+      "/images/doi-nhom-11.jpg",
+      "/images/doi-nhom-12.jpg",
+      "/images/doi-nhom-13.jpg",
+      "/images/doi-nhom-14.jpg",
+      "/images/doi-nhom-15.jpg",
+      "/images/doi-nhom-16.jpg",
+      "/images/doi-nhom-17.jpg",
+      "/images/doi-nhom-18.jpg",
+      "/images/doi-nhom-19.jpg",
+      "/images/doi-nhom-20.jpg",
+      "/images/doi-nhom-21.jpg",
+      "/images/doi-nhom-22.jpg"
+    ]
+  }
+}

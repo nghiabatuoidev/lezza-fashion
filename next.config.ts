@@ -2,19 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    // Cho phép localhost dev (nếu dùng external images)
-    remotePatterns: [
-      {
-        protocol: "http",
-        hostname: "localhost",
-        port: "**",
-        pathname: "**",
-      },
-    ],
-  },
-  // Tăng tốc build production
-  experimental: {
-    optimizePackageImports: ["lodash"],
+    unoptimized: true, // Thử bật cái này lên trước để xác định lỗi
   },
 };
 
